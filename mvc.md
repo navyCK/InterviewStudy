@@ -152,4 +152,4 @@ Android Studio를 통해 실제로 빌드해보기.
 
 
 
-<출처 : https://thdev.tech/androiddev/2016/10/23/Android-MVC-Architecture/>
+출처 : https://thdev.tech/androiddev/2016/10/23/Android-MVC-Architecture/

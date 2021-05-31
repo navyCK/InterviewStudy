@@ -80,4 +80,4 @@ View를 완전히 분리하기.
 
 
 
-<출처 : https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/>
+출처 : https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/
