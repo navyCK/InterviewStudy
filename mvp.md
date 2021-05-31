@@ -1,5 +1,5 @@
 # Android로 MVP 사용하기
-출처 : https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/
+
 
 <img src="https://thdev.tech/images/posts/2016/10/Android-MVP-Intro/MVP.png">
 
@@ -77,3 +77,7 @@ View를 완전히 분리하기.
 * Activity
 * Fragment
 * RecyclerAdapter
+
+
+
+<출처 : https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/>
