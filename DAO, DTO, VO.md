@@ -13,3 +13,5 @@
 ### VO
 - VO(Value Object) 값 오브젝트로써 값을 위해 쓰입니다. read-Only 특징(사용하는 도중에 변경 불가능하며 오직 읽기만 가능)을 가집니다.
 - DTO와 유사하지만 DTO는 setter를 가지고 있어 값이 변할 수 있습니다.
+
+<!-- 출처 : http://melonicedlatte.com/2021/07/24/231500.html -->
