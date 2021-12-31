@@ -70,5 +70,3 @@ Collection<> https://gangnam-americano.tistory.com/41
 ## 21/12/29 수요일
 안드로이드 커스텀리스트뷰 https://recipes4dev.tistory.com/43
 
-## 21/12/30 목요일
-
