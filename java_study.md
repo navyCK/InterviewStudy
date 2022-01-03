@@ -70,3 +70,5 @@ Collection<> https://gangnam-americano.tistory.com/41
 ## 21/12/29 수요일
 안드로이드 커스텀리스트뷰 https://recipes4dev.tistory.com/43
  
+## 22/01/03 월요일
+테스트케이스 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wisestone2007&logNo=221064272586
