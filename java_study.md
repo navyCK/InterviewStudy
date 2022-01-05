@@ -81,4 +81,3 @@ AndroidManifest.xml 확인 사항
 
 3. android:noHistory="true" - Manifest에서 흔적을 남기고 싶지 않은 Activity에 android:noHistory="true" 이렇게 넣어주시면 됩니다. https://itpangpang.tistory.com/341
 4. android:screenOrientation="landscape" - 화면 이동 x 고정 o http://www.fun25.co.kr/blog/android-screen-orientation
-5. 
