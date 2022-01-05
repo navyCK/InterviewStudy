@@ -77,24 +77,8 @@ Collection<> https://gangnam-americano.tistory.com/41
 AndroidManifest.xml 확인 사항
 1. android:configChanges="keyboard|keyboardHidden" - “keyboardHidden”: User 가 Hardware Keyboard를 보이고 감추는 등의 Keyboard의 Accessibility가 변경되었을 때 : http://jinyongjeong.github.io/2018/09/30/configchange_option/
 
-2. android:windowSoftInputMode="adjustResize|adjustPan"
+2. android:windowSoftInputMode="adjustResize|adjustPan" - adjustPan 소프트 키보드에 의해 EditText 가 가려지지 않도록 위쪽으로 이동. 하단 그림과 같이 위, 아래가 잘리게 된다. adjustResize 소프트 키보드가 보이도록 공간을 확보하기 위해 activity window 을 resize 한다. 하단 그림과 같이 위, 아래 모두 표시된다. https://parkho79.tistory.com/59
 
-   adjustPan
-   소프트 키보드에 의해 EditText 가 가려지지 않도록 위쪽으로 이동.
-   하단 그림과 같이 위, 아래가 잘리게 된다.
-
-   adjustResize
-   소프트 키보드가 보이도록 공간을 확보하기 위해 activity window 을 resize 한다.
-   하단 그림과 같이 위, 아래 모두 표시된다.
-https://parkho79.tistory.com/59
-
-3. android:noHistory="true"
-   Manifest에서 흔적을
-
-   남기고 싶지 않은 Activity에
-
-   android:noHistory="true"
-
-   이렇게 넣어주시면 됩니다.
-
-   https://itpangpang.tistory.com/341
+3. android:noHistory="true" - Manifest에서 흔적을 남기고 싶지 않은 Activity에 android:noHistory="true" 이렇게 넣어주시면 됩니다. https://itpangpang.tistory.com/341
+4. android:screenOrientation="landscape" - 화면 이동 x 고정 o http://www.fun25.co.kr/blog/android-screen-orientation
+5. 
