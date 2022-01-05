@@ -88,7 +88,7 @@ AndroidManifest.xml 확인 사항
    하단 그림과 같이 위, 아래 모두 표시된다.
 https://parkho79.tistory.com/59
 
-3.android:noHistory="true"
+3. android:noHistory="true"
 
 Manifest에서 흔적을
 
