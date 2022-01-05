@@ -89,13 +89,12 @@ AndroidManifest.xml 확인 사항
 https://parkho79.tistory.com/59
 
 3. android:noHistory="true"
+   Manifest에서 흔적을
 
-Manifest에서 흔적을
+   남기고 싶지 않은 Activity에
 
-남기고 싶지 않은 Activity에
+   android:noHistory="true"
 
-android:noHistory="true"
+   이렇게 넣어주시면 됩니다.
 
-이렇게 넣어주시면 됩니다.
-
-https://itpangpang.tistory.com/341
+   https://itpangpang.tistory.com/341
