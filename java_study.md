@@ -84,4 +84,5 @@ AndroidManifest.xml 확인 사항
 
 ## 22/01/06 목요일
 안드로이드 스크롤 뷰 속성 https://taewooblog.tistory.com/102
+
 안드로이드 application class https://uroa.tistory.com/43
