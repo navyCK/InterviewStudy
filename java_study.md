@@ -90,3 +90,5 @@ AndroidManifest.xml 확인 사항
 안드로이드 DisplayMetrics https://kkangsnote.tistory.com/27
 
 
+## 22/01/07 금요일
+안드로이드 TextView 글자수 넘쳤을 때 https://jhshjs.tistory.com/27
