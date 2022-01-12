@@ -92,3 +92,6 @@ AndroidManifest.xml 확인 사항
 
 ## 22/01/07 금요일
 안드로이드 TextView 글자수 넘쳤을 때 https://jhshjs.tistory.com/27
+
+## 22/01/12 수요일
+안드로이드 로딩창 https://andro-jinu.tistory.com/entry/androidstudio2
