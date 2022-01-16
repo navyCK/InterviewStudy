@@ -98,4 +98,5 @@ AndroidManifest.xml 확인 사항
 
 ## 22/01/14 금요일
 안드로이드 데이터바인딩 https://salix97.tistory.com/243
+
 안드로이드 리사이클러뷰 이벤트 처리 https://recipes4dev.tistory.com/168
