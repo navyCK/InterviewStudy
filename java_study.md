@@ -100,3 +100,6 @@ AndroidManifest.xml 확인 사항
 안드로이드 데이터바인딩 https://salix97.tistory.com/243
 
 안드로이드 리사이클러뷰 이벤트 처리 https://recipes4dev.tistory.com/168
+
+## 22/01/17 월요일
+안드로이드 리사이클러뷰 ripple effect https://stackoverflow.com/questions/30931889/adding-ripple-effect-to-recyclerview-item
