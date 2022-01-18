@@ -103,3 +103,6 @@ AndroidManifest.xml 확인 사항
 
 ## 22/01/17 월요일
 안드로이드 리사이클러뷰 ripple effect https://stackoverflow.com/questions/30931889/adding-ripple-effect-to-recyclerview-item
+
+## 22/01/18 화요일
+NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-NFC-%ED%83%9C%EA%B7%B8%EA%B0%92-%EC%9D%BD%EC%96%B4-%EC%98%A4%EA%B8%B0
