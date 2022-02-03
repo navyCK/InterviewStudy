@@ -115,3 +115,9 @@ NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%
 
 ## 22/01/26 수요일
 달력 https://github.com/hugomfandrade/CalendarView-Widget
+
+
+## 22/02/03 목요일
+인텐트 https://jhshjs.tistory.com/50
+
+
