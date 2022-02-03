@@ -119,6 +119,9 @@ NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%
 
 ## 22/02/03 목요일
 인텐트 https://jhshjs.tistory.com/50
+
 유효성 체크 라이브러리 saripaar https://github.com/ragunathjawahar/android-saripaar#license
+
 뷰페이저 ViewPager https://recipes4dev.tistory.com/148
+
 
