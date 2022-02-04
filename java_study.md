@@ -124,4 +124,7 @@ NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%
 
 뷰페이저 ViewPager https://recipes4dev.tistory.com/148
 
+## 22/02/04 금요일
+다른 액티비티 종료 https://cheetahcorp.tistory.com/102
+
 
