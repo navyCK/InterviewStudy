@@ -127,4 +127,6 @@ NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%
 ## 22/02/04 금요일
 다른 액티비티 종료 https://cheetahcorp.tistory.com/102
 
+Android EditText 다음으로 이동하기 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tpgns8488&logNo=220961313289
+
 
