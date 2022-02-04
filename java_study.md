@@ -129,4 +129,6 @@ NFC https://kmckmc.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%
 
 Android EditText 다음으로 이동하기 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tpgns8488&logNo=220961313289
 
+EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보이기 https://kitesoft.tistory.com/105
+
 
