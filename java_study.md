@@ -132,3 +132,7 @@ Android EditText 다음으로 이동하기 https://m.blog.naver.com/PostView.nav
 EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보이기 https://kitesoft.tistory.com/105
 
 
+## 22/02/08 화요일
+
+안드로이드 리사이클러뷰 필터 https://stickode.tistory.com/49
+
