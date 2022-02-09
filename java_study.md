@@ -136,3 +136,6 @@ EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보
 
 안드로이드 리사이클러뷰 필터 https://stickode.tistory.com/49
 
+## 22/02/09 수요일
+
+액티비티 시작 시 키보드 띄우지 않기 https://gongdoo.tistory.com/336
