@@ -139,3 +139,7 @@ EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보
 ## 22/02/09 수요일
 
 액티비티 시작 시 키보드 띄우지 않기 https://gongdoo.tistory.com/336
+
+## 22/02/10 목요일
+
+[Android] RecyclerView가 뜨지 않을 때 https://euzl.github.io/recyclerview-no-show/
