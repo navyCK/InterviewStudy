@@ -143,3 +143,8 @@ EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보
 ## 22/02/10 목요일
 
 [Android] RecyclerView가 뜨지 않을 때 https://euzl.github.io/recyclerview-no-show/
+
+## 22/02/11 금요일
+
+AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://dailyddubby.blogspot.com/2018/05/117-alertdialog-edittext-edittext-margin.html
+
