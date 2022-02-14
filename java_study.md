@@ -148,3 +148,5 @@ EditText의 속성들, 포커스 자동 이동, 소프트키보드 숨기기/보
 
 AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://dailyddubby.blogspot.com/2018/05/117-alertdialog-edittext-edittext-margin.html
 
+## 22/02/14 월요일
+
