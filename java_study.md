@@ -150,3 +150,7 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 
 ## 22/02/14 월요일
 
+## 22/03/08 화요일
+
+앱 권한 https://manorgass.tistory.com/74
+
