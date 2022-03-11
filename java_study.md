@@ -157,3 +157,8 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 ## 22/03/10 목요일
 
 안드로이드 내부 SQLite https://kadosholy.tistory.com/21
+
+## 22/03/11 금요일
+
+안드로이드 ROOM https://todaycode.tistory.com/39
+
