@@ -166,3 +166,6 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 
 안드로이드 WindowLeaked 발생 https://jhdroid.tistory.com/12
 
+## 22/03/15 화요일
+
+안드로이드 sharedPreference https://re-build.tistory.com/37
