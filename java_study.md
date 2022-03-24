@@ -173,3 +173,11 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 ## 22/03/17 목요일
 
 데이터바인딩 조건부 텍스트 https://stackoverflow.com/questions/37725927/android-conditional-text-value-using-data-binding
+
+## 22/03/24 목요일
+
+소수점 자르기 https://al02000.tistory.com/19
+
+가로 세로 https://developer88.tistory.com/265
+
+
