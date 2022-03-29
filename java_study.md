@@ -180,4 +180,8 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 
 가로 세로 https://developer88.tistory.com/265
 
+## 22/03/29 화요일
+
+리싸이클러뷰 색 https://thepassion.tistory.com/301
+
 
