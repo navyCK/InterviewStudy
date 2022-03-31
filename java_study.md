@@ -184,4 +184,6 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 
 리싸이클러뷰 색 https://thepassion.tistory.com/301
 
+## 22/03/31 목요일
 
+향상된 for 문 https://jamesdreaming.tistory.com/105?msclkid=c9fd24feb0ce11ecb09f403c134d9ad0
