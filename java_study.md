@@ -196,4 +196,7 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 ## 22/04/12 화요일 
 
 set https://hackersstudy.tistory.com/26
+리싸이클러뷰 아이템 뒤죽박죽 https://jhshjs.tistory.com/136
+
+
 
