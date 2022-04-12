@@ -193,3 +193,7 @@ AlertDialog에 EditText 넣기, EditText margin으로 길이 줄이기 http://da
 
 공백 제거 trim https://coding-factory.tistory.com/129
 
+## 22/04/12 화요일 
+
+set https://hackersstudy.tistory.com/26
+
